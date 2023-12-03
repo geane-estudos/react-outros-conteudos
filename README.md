@@ -6,6 +6,7 @@
 
 ## Índice
 - [1. PropTypes](#1-react-router-dom)
+- [2. Lazy e Suspense]()
 
 ### 1. PropTypes
 
